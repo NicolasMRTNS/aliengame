@@ -214,7 +214,7 @@ svg.main,
   position: absolute;
   z-index: 1000;
   top: 300px;
-  left: 490px;
+  left: 30%;
   width: 200px;
 }
 
@@ -243,7 +243,7 @@ text {
   position: absolute;
   z-index: 1000;
   top: 445px;
-  left: 890px;
+  left: 51%;
   width: 200px;
   height: 200px;
   display: flex;
