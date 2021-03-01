@@ -1,24 +1,5 @@
-# aliengame
+# Aliengame
 
-## Project setup
-```
-npm install
-```
+A little game create with Vue CLI, when learning Vue.js, from Sarah Drasner's course on FrontEnd Masters.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Very fun to do, coding along Sarah to better understand the concepts of Vue, and how to work with it.
